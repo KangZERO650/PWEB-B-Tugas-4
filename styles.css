@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -269,7 +269,6 @@ body {
     background-color: #3367d6;
 }
 
-/* Remove old card styles - replace with simplified version */
 .cards-grid {
     display: none;
 }
@@ -370,4 +369,5 @@ body {
     .comment-section {
         padding: 0 15px;
     }
+
 }
